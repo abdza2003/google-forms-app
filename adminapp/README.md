@@ -1,4 +1,4 @@
-# adminapp
+# adminsapp
 
 A new Flutter project.
 
