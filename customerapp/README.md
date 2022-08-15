@@ -1,4 +1,4 @@
-# customerapp
+# customersapp
 
 A new Flutter project.
 
