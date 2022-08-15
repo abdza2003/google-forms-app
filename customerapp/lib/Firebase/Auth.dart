@@ -13,7 +13,7 @@ class IdItem {
 }
 
 FirebaseServise s1 = Get.find();
-String appIdKey = 'AIzaSyB-6s3ot98M6lrRFQnKjo8Nqz9ZXAXkrgM';
+String appIdKey = '00000000000000000000000000000000000';
 
 class Auth with ChangeNotifier {
   List<IdItem> addNewUser = [];
